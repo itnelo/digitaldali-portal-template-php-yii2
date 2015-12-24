@@ -1,9 +1,6 @@
 Каркас информационного портала по обучению русскому языку для веб студии DigitalDali (digitaldali.ru)
 ============================
 
-Скриншоты:
-======
-
 Страница регистрации:
 
 ![alt tag](https://raw.github.com/itnelo/digitaldali-portal-template-php-yii2/master/__github_images/1-registration.png)
